@@ -1,5 +1,5 @@
 # House-price-prediction
-Beginner machine learning project submitted to the Kaggle House Prices competition.
+Machine learning project using the Kaggle House Prices dataset to predict residential sale prices.
 
 ## Aim
 Predict residential property sale prices using a range of numerical and categorical property features.
