@@ -4,6 +4,11 @@ Beginner machine learning project submitted to the Kaggle House Prices competiti
 ## Aim
 Predict residential property sale prices using a range of numerical and categorical property features.
 
+## Data
+Data from the Kaggle House Prices - Advanced Regression Techniques competition: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+The dataset includes numerical and categorical property features used to predict 'SalePrice'.
+
 ## Approach
 - Explored the data and investigated missing values
 - Analysed the distribution of SalePrice
